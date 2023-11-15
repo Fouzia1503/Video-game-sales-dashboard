@@ -1,1 +1,2 @@
-# Video-game-sales-dashboard
+Developed an interactive sales dashboard to analyze and gain insights into the sales trends of video games in the Europe, North America and Japan regions.
+The dashboard provides a comprehensive overview of the highest-selling video games categorized by region, country, publisher, genre, platform, and year. Additionally, the dashboard includes insights on total sales categorized by platform and genre.Furthermore, the dashboard incorporates a time series analysis depicting the sales trends over the years.
